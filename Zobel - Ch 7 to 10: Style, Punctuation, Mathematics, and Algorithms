@@ -1,0 +1,81 @@
+# My understanding of Chapters 7-10 from Zobel’s Writing for Computer Science [1, pp. 95–155]
+
+# Chapter 7: Style Specifics
+
+## Define what is in and what is out of scope
+
+Zobel states that beginning a paper with what it is not covering is bad practice. It makes the intention of the paper a mystery to be solved later for the reader [[1, p. 97]](https://www.zotero.org/google-docs/?ZSAn0w). A writer must instead introduce the scope first to gain the reader’s interest, and, after that, describe what is out of scope. It is essential to demarcate the boundaries of a paper so the reader has a clear view of what to expect. Prioritising clarity reinforces the principle established in chapter 6 that, as writers, you must “tell the reader what you are going to say, then say it, and then tell the reader that you have said it” [[1, p. 80]](https://www.zotero.org/google-docs/?ngkKES). It is good practice to set expectations with any activity: writing is no different.
+
+## Giving context
+
+Defining the scope is essential for expectation setting. We ease the reader into our paper with the context or background [[1, p. 97]](https://www.zotero.org/google-docs/?92b9Xn). This background demonstrates the writer’s motivation, the gap in the existing literature, and why the reader should give their time [[1, pp. 58, 75]](https://www.zotero.org/google-docs/?g8OYFZ). 
+
+We can connect the scope and the context by starting with context in the passive voice, and then moving to the scope in the active voice [[1, p. 81]](https://www.zotero.org/google-docs/?wtXHUm). This structure demonstrates clearly to the reader the writer is responsible for their work, and is commenting on the context.
+
+## Paragraphing
+
+The goal of scientific writing is to be direct, clear and concise. Through the discussion of theory and demonstration of experimentation, our words, sentences and paragraphs build on themselves to convey our meaning. Concise phrasing and paragraphs are essential to keep the reader’s interest and to reduce the likelihood of padding our ideas [[1, pp. 99, 117]](https://www.zotero.org/google-docs/?AxaWsc). 
+
+When we introduce new terminology, as writers, we must ensure that we give the reader time to acclimate to the new word. This means that we should often use a complete term instead of using “it”, “this” or other abstractions in connecting sentences and paragraphs. If we rely on the reader’s memory then we risk our words and ideas being misunderstood.
+
+## Be positive
+
+My dad used to tell me that you should, whenever possible, start with “Yes” to an essay question. An affirmation to a question psychology gives a stronger engagement with a reader, as it is positive and optimistic.
+
+Scientifically, a reduction in the negative means that we will need fewer words. In turn, this means that our meaning is clearer to the reader [[1, p. 104]](https://www.zotero.org/google-docs/?o84CIy), and we won’t be misunderstood.
+
+## Qualifiers
+
+Qualifiers undermine our thinking [[1, p. 110]](https://www.zotero.org/google-docs/?Kj9SYi). They lead to overqualification of our thoughts that demonstrate we are unsure of our approach, experiments or conclusions [[1, p. 77]](https://www.zotero.org/google-docs/?lMq9v8). We must avoid qualifiers and double negatives to ensure our meaning is clear, and that we are not padding our sentences. 
+
+## Sexism
+
+When I studied my first degree, my lecturer was fastidious with using “it” as the gender neutral pronoun. While grammatically correct, the use of “it” can be seen as degrading. We can use “A person” with “they” and “them” as subject and objects. This impacts clarity, but it is an established norm with writing [[1, p. 121]](https://www.zotero.org/google-docs/?fsilo8).
+
+# Chapter 8: Punctuation
+
+Keep punctuation crisp and easy-to-understand. We must use commas and full stops to ensure clarity of expression and brevity. We can use colons and semicolons sparingly, but when we start to use them, it is an example that our sentences are getting complicated.
+
+Parentheses should be avoided as they make sentences ugly and they make concepts difficult to interpret [[1, p. 129]](https://www.zotero.org/google-docs/?YGPy2E): they are used to introduce more detail. We must ask ourselves when writing a bracket: can I rephrase this sentence, or what value is there in adding this?
+
+# Chapter 9: Mathematics
+
+## Notation
+
+Mathematical notation can terrify me. On the one hand, it has one meaning that is universally understood by all mathematicians, but, on the other hand, mathematical notation is often abused by well-intentioned writers who manipulate it to convey their specific meaning. To ensure understanding, when using mathematical notation, we must use it correctly and precisely [[1, p. 131]](https://www.zotero.org/google-docs/?tn9biQ). 
+
+Mathematical language is even more open to abuse; therefore we must be as precise with the language as we are with the notation, but alert that there are cases for more overlaps between intended use and colloquial usage.
+
+## Enhancing clarity
+
+Where notation and numbers-with-units-of-measurement straddle multiple lines, we should rethink our sentence structure [[1, p. 138]](https://www.zotero.org/google-docs/?u1xdWz). First, we must think if we can simply format sentences so that these appear on one line: for example we have “12 ms” on one line rather than across two. 
+
+Second, if our notation is more complicated, we must think of how we can revise the notation to be more simple and easy-to-interpret. The goal of our writing is to persuade a reader to our point of view and to inform them: we must not complicate the process for them.
+
+## Points to remember
+
+A quick note that we should write fractions as words rather than numerals [[1, p. 140]](https://www.zotero.org/google-docs/?jHsxhV). 
+
+# Chapter 10: Algorithms 
+
+## Define the algorithm mechanically and in terms of its contribution
+
+When discussing algorithms, we must indicate a machine-focused set of inputs and expected outcomes, and the contribution that an algorithm brings. When discussing the algorithm, it is good to use prosecode or literate code [[1, pp. 149–150]](https://www.zotero.org/google-docs/?wjtQd5): these are more universal than pseudocode and easier for the majority of readers to understand. 
+
+We must use a combination of asymptotic analysis and experimentation to demonstrate our reasoning for choosing an algorithm. This analysis must focus on the algorithm’s contribution: why are we discussing the algorithm? We discuss both the theoretical and the empirical because asymptotic analysis does not take into account computational resource concerns [[1, pp. 3, 27, 155]](https://www.zotero.org/google-docs/?Hn5mz6). Our goal is for the reader to trust in our analysis, which is more likely if we show both theory and experimentation. 
+
+## Big-O Notation
+
+Similar to mathematical notation, discussions on Big-O notation abuse the terminology. To ensure our reader trusts our narrative, we must keep to the standard definition of these terms [[1, p. 153], [2, p. 207]](https://www.zotero.org/google-docs/?0L8b0t):
+
+- Big-O (O) is the number of operations in the worst-case scenario. It is the asymptotic upper bound for a function.
+
+- Big-Omega (Ω) is the number of operations in the best-case scenario. It is the asymptotic lower bound for a function.
+
+- Big-Theta (Θ) is the number of operations in the average-case scenario. It is the tightly bounded performance case.
+
+# Reference list
+
+[[1]	J. Zobel, ](https://www.zotero.org/google-docs/?IZOGdT)*[Writing for Computer Science](https://www.zotero.org/google-docs/?IZOGdT)*[. London: Springer London, 2014. doi: 10.1007/978-1-4471-6639-9.](https://www.zotero.org/google-docs/?IZOGdT)
+
+[[2]	R. Sedgewick and K. D. Wayne, ](https://www.zotero.org/google-docs/?IZOGdT)*[Algorithms](https://www.zotero.org/google-docs/?IZOGdT)*[, 4th ed. Upper Saddle River: Addison-Wesley, 2011.](https://www.zotero.org/google-docs/?IZOGdT)
