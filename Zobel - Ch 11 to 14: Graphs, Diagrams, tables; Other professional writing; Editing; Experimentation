@@ -11,9 +11,7 @@ In computer science, we work with big data sets. To publish the data set in its 
 When constructing graphs, it is critical to remember that we must display information in a crisp and clear way. This means that we must consider colour, lines, and legends [[1, p. 158]](https://www.zotero.org/google-docs/?AXG6XN). 
 
 - Colours should be grey: grey is a neutral colour and underscores a professional tone. To add red, for example, may lead to the assumption that that line has a negative connotation.
-
 - Lines must provide clarity to the graph and must not be over-ornamented. Adding ticks and secondary marks is similar to adding parentheses: more meaning is added that is likely to distract from our message [[1, p. 129]](https://www.zotero.org/google-docs/?Px1kr4).
-
 - Legends and axes labelling must be present for the reader to understand what is being compared. It’s essential that this is clear by using similar text formatting and styling. With legends, it can be better to label lines instead of having a floating table [[1, p. 160]](https://www.zotero.org/google-docs/?m3sbpy).
 
 When working with data, think about the idea you’re aiming to persuade the reader of: would it be best to simplify and use a graph?
@@ -55,17 +53,11 @@ Writing early and being open to feedback is essential so that we do not create a
 When constructing a report, we can follow a sequence of sections [[1, p. 185]](https://www.zotero.org/google-docs/?H3aXKc): 
 
 - Summary,
-
 - Introduction,
-
 - Technical overview,
-
 - Definitions,
-
 - Observations,
-
 - Results and discussion,
-
 - Recommendations.
 
 This is similar to the academic structure of Abstract, Introduction, Methods, Results, Discussion (including conclusions or summary) [[1, pp. 56, 59]](https://www.zotero.org/google-docs/?0ev3nC). This similarity is for good reason: a reader needs structure in order for them to understand your ideas. Whether it is for academia or not, it is worth repeating that persuasion and transmissions of ideas are at the heart of why we write, and a structure is a clear guide for this purpose [[1, p. 189]](https://www.zotero.org/google-docs/?QHeTZF). 
@@ -100,6 +92,6 @@ While considering performance measures, we evaluate the human element of our exp
 
 Fundamentally, experimentation needs to underscore that the paper adds value: that the theory is proven or disproven, and that the experiment can be repeated. If the results were a singleton then the applicability of the paper is low, and therefore not of use to the reader [[1, p. 213]](https://www.zotero.org/google-docs/?BcGnUZ).
 
-# Reference listEdit with Zotero
+# Reference list
 
 [[1]	J. Zobel, ](https://www.zotero.org/google-docs/?IZOGdT)*[Writing for Computer Science](https://www.zotero.org/google-docs/?IZOGdT)*[. London: Springer London, 2014. doi: 10.1007/978-1-4471-6639-9.](https://www.zotero.org/google-docs/?IZOGdT)
