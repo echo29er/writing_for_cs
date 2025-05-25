@@ -2,23 +2,23 @@
 
 # Chapter 11: Graphs, Figures, and Tables
 
-As writers, our goal is to convey our ideas as clearly and economically as possible to our audience [[1, pp. 76, 157]](https://www.zotero.org/google-docs/?2zyMOM). Graphs, figures, diagrams and tables support us in this goal: they are efficient methods of conveying meaning. The phrase “a picture paints a thousand words” is true when extended to these methods. 
+As writers, our goal is to convey our ideas as clearly and economically as possible to our audience [[1, pp. 76, 157]]. Graphs, figures, diagrams and tables support us in this goal: they are efficient methods of conveying meaning. The phrase “a picture paints a thousand words” is true when extended to these methods. 
 
 ## The application of graphs
 
-In computer science, we work with big data sets. To publish the data set in its entirety is not effective to communicate ideas to the reader, as it is ambiguous. We can publish a table and write about it, but when we write about things abstractly, we run the risk of being misinterpreted. Or we risk losing the reader in a sea of statistics. Fortunately, graphs visualise trends in data sets [[1, p. 157]](https://www.zotero.org/google-docs/?alEzNF).
+In computer science, we work with big data sets. To publish the data set in its entirety is not effective to communicate ideas to the reader, as it is ambiguous. We can publish a table and write about it, but when we write about things abstractly, we run the risk of being misinterpreted. Or we risk losing the reader in a sea of statistics. Fortunately, graphs visualise trends in data sets [[1, p. 157]].
 
-When constructing graphs, it is critical to remember that we must display information in a crisp and clear way. This means that we must consider colour, lines, and legends [[1, p. 158]](https://www.zotero.org/google-docs/?AXG6XN). 
+When constructing graphs, it is critical to remember that we must display information in a crisp and clear way. This means that we must consider colour, lines, and legends [[1, p. 158]]. 
 
 - Colours should be grey: grey is a neutral colour and underscores a professional tone. To add red, for example, may lead to the assumption that that line has a negative connotation.
-- Lines must provide clarity to the graph and must not be over-ornamented. Adding ticks and secondary marks is similar to adding parentheses: more meaning is added that is likely to distract from our message [[1, p. 129]](https://www.zotero.org/google-docs/?Px1kr4).
-- Legends and axes labelling must be present for the reader to understand what is being compared. It’s essential that this is clear by using similar text formatting and styling. With legends, it can be better to label lines instead of having a floating table [[1, p. 160]](https://www.zotero.org/google-docs/?m3sbpy).
+- Lines must provide clarity to the graph and must not be over-ornamented. Adding ticks and secondary marks is similar to adding parentheses: more meaning is added that is likely to distract from our message [[1, p. 129]].
+- Legends and axes labelling must be present for the reader to understand what is being compared. It’s essential that this is clear by using similar text formatting and styling. With legends, it can be better to label lines instead of having a floating table [[1, p. 160]].
 
 When working with data, think about the idea you’re aiming to persuade the reader of: would it be best to simplify and use a graph?
 
 ## The application of diagrams
 
-Similar to graphs, diagrams are effective visual aids to convey ideas to readers [[1, p. 168]](https://www.zotero.org/google-docs/?orxE89). Diagram-usage comes with the same requirement as graphs: we must not overload them. It is critical that they carry just-the-right amount of information, or we run the risk of readers taking away the wrong idea [[1, pp. 167, 169]](https://www.zotero.org/google-docs/?sSR5Y4).
+Similar to graphs, diagrams are effective visual aids to convey ideas to readers [[1, p. 168]]. Diagram-usage comes with the same requirement as graphs: we must not overload them. It is critical that they carry just-the-right amount of information, or we run the risk of readers taking away the wrong idea [[1, pp. 167, 169]].
 
 Like in our construction of graphs, we must consider the colour and styling of diagrams. We can ask ourselves the following questions:
 
@@ -28,11 +28,11 @@ Like in our construction of graphs, we must consider the colour and styling of d
 
 - Is there consistency in my diagram? Text and object sizes must be equal and clutter must be at a minimum.
 
-Zobel provides examples of good and bad applications of diagrams [[1, pp. 168–172]](https://www.zotero.org/google-docs/?Z7GtyX).
+Zobel provides examples of good and bad applications of diagrams [[1, pp. 168–172]].
 
 ## The application of tables
 
-Tables should only be used when a graph is not appropriate: when exact values and properties of a data set are important [[1, p. 171]](https://www.zotero.org/google-docs/?MKtBqW). The arrangement of columns and rows must be clear to the reader [[1, p. 173]](https://www.zotero.org/google-docs/?VeUMQw). Remember, the construction of tables in a paper is not the same as table normalisation: the goal is to convey our intended meaning to the reader, and not to impress them with technical ability [[1, p. 176]](https://www.zotero.org/google-docs/?EgRmUQ). 
+Tables should only be used when a graph is not appropriate: when exact values and properties of a data set are important [[1, p. 171]]. The arrangement of columns and rows must be clear to the reader [[1, p. 173]]. Remember, the construction of tables in a paper is not the same as table normalisation: the goal is to convey our intended meaning to the reader, and not to impress them with technical ability [[1, p. 176]]. 
 
 Tables need to be accompanied by presentation of results through an explanatory test. A table will not stand up by itself: it is for reference only.
 
@@ -40,17 +40,17 @@ Tables need to be accompanied by presentation of results through an explanatory 
 
 ## Scoping the work and the effort
 
-Zobel states that in non-academic work, we should be clear on defining a budget for an assignment we are given [[1, p. 179]](https://www.zotero.org/google-docs/?IWntUu). I think, in contrast, that we must apply this principle to all work: we must ask ourselves what is the scope of the work against requirements, and how can I best deliver this in a limited timeframe?
+Zobel states that in non-academic work, we should be clear on defining a budget for an assignment we are given [[1, p. 179]]. I think, in contrast, that we must apply this principle to all work: we must ask ourselves what is the scope of the work against requirements, and how can I best deliver this in a limited timeframe?
 
 ## Do the hard work first
 
-Constructing a plan for an assignment is essential. A paper or report must be broken down into tasks, and these tasks must be prioritised. The most important tasks are done first [[1, p. 180]](https://www.zotero.org/google-docs/?rkAQfw). By “most important", I mean those tasks that will, in this context, persuade the reader and meet any rigid requirements we are set. 
+Constructing a plan for an assignment is essential. A paper or report must be broken down into tasks, and these tasks must be prioritised. The most important tasks are done first [[1, p. 180]]. By “most important", I mean those tasks that will, in this context, persuade the reader and meet any rigid requirements we are set. 
 
-Writing early and being open to feedback is essential so that we do not create an artefact that is only useful to ourselves [[1, pp. 51, 184–185]](https://www.zotero.org/google-docs/?AMRlsZ). 
+Writing early and being open to feedback is essential so that we do not create an artefact that is only useful to ourselves [[1, pp. 51, 184–185]]. 
 
 ## Define the structure
 
-When constructing a report, we can follow a sequence of sections [[1, p. 185]](https://www.zotero.org/google-docs/?H3aXKc): 
+When constructing a report, we can follow a sequence of sections [[1, p. 185]]: 
 
 - Summary,
 - Introduction,
@@ -60,38 +60,38 @@ When constructing a report, we can follow a sequence of sections [[1, p. 185]](h
 - Results and discussion,
 - Recommendations.
 
-This is similar to the academic structure of Abstract, Introduction, Methods, Results, Discussion (including conclusions or summary) [[1, pp. 56, 59]](https://www.zotero.org/google-docs/?0ev3nC). This similarity is for good reason: a reader needs structure in order for them to understand your ideas. Whether it is for academia or not, it is worth repeating that persuasion and transmissions of ideas are at the heart of why we write, and a structure is a clear guide for this purpose [[1, p. 189]](https://www.zotero.org/google-docs/?QHeTZF). 
+This is similar to the academic structure of Abstract, Introduction, Methods, Results, Discussion (including conclusions or summary) [[1, pp. 56, 59]]. This similarity is for good reason: a reader needs structure in order for them to understand your ideas. Whether it is for academia or not, it is worth repeating that persuasion and transmissions of ideas are at the heart of why we write, and a structure is a clear guide for this purpose [[1, p. 189]]. 
 
 # Chapter 13: Editing
 
-We must never be so attached to our writing that we think it cannot be improved. When we hit a wall then we should request others to review the work to critique it [[1, p. 191]](https://www.zotero.org/google-docs/?KgA1wE). 
+We must never be so attached to our writing that we think it cannot be improved. When we hit a wall then we should request others to review the work to critique it [[1, p. 191]]. 
 
 # Chapter 14: Experimentation
 
 ## Setting a baseline
 
-We test our hypotheses to convince the reader of the usefulness of our writing [[1, pp. 3, 27, 155, 197]](https://www.zotero.org/google-docs/?Hn5mz6). To achieve this, we have a clear baseline against which our experiments can be compared. This baseline must be contemporary: like our reference reading, it should be published recently [[1, p. 23]](https://www.zotero.org/google-docs/?1Zs9yI). We may find ourselves forced into using out-dated baselines, but if they are what is globally-accepted then we must be careful when introducing new baselines, as they may not appear to be credible.
+We test our hypotheses to convince the reader of the usefulness of our writing [[1, pp. 3, 27, 155, 197]]. To achieve this, we have a clear baseline against which our experiments can be compared. This baseline must be contemporary: like our reference reading, it should be published recently [[1, p. 23]]. We may find ourselves forced into using out-dated baselines, but if they are what is globally-accepted then we must be careful when introducing new baselines, as they may not appear to be credible.
 
 ## Using data
 
 Our data must be adequate for the experimentation: the reader must be convinced that our work can be trusted, and the data our models work on is the foundation of our experimentation.
 
-When considering data, it must have desirable characteristics [[1, p. 199]](https://www.zotero.org/google-docs/?CrFg0n). Data will nearly always be problematic: incomplete or with errors present. We can’t always remove the problematic data as the results will be biased for a happy path and our models may overfit; therefore we must establish methods clearly to the reader on our data processing [[1, p. 201]](https://www.zotero.org/google-docs/?tV3Xij).
+When considering data, it must have desirable characteristics [[1, p. 199]]. Data will nearly always be problematic: incomplete or with errors present. We can’t always remove the problematic data as the results will be biased for a happy path and our models may overfit; therefore we must establish methods clearly to the reader on our data processing [[1, p. 201]].
 
 ## Handling a failed outcome
 
-If our results fail against our hypothesis then we should be willing to explore that our experimentation setup was incorrect. It will be seen as non-academic and a cursory dismissal, if the hypothesis is blamed, and what we have done in the experiment is beyond criticism [[1, p. 203]](https://www.zotero.org/google-docs/?Uh0TVn).
+If our results fail against our hypothesis then we should be willing to explore that our experimentation setup was incorrect. It will be seen as non-academic and a cursory dismissal, if the hypothesis is blamed, and what we have done in the experiment is beyond criticism [[1, p. 203]].
 
 ## Evaluation
 
-Defined in our introduction, the measures for evaluation must be made explicit and repeated in our evaluation. This is to demonstrate joined-up-thinking to our reader, and to remind them that our paper has value [[1, pp. 208–209]](https://www.zotero.org/google-docs/?qjKzyb).
+Defined in our introduction, the measures for evaluation must be made explicit and repeated in our evaluation. This is to demonstrate joined-up-thinking to our reader, and to remind them that our paper has value [[1, pp. 208–209]].
 
-While considering performance measures, we evaluate the human element of our experiments both in their interaction with the experiments and the experiment setup. We must consider whether a qualitative experiment is run blind or double blind, and if there is value in a mixed methods approach [[1, p. 210]](https://www.zotero.org/google-docs/?fmUOKy).
+While considering performance measures, we evaluate the human element of our experiments both in their interaction with the experiments and the experiment setup. We must consider whether a qualitative experiment is run blind or double blind, and if there is value in a mixed methods approach [[1, p. 210]].
 
 ## Adds value and is verifiable
 
-Fundamentally, experimentation needs to underscore that the paper adds value: that the theory is proven or disproven, and that the experiment can be repeated. If the results were a singleton then the applicability of the paper is low, and therefore not of use to the reader [[1, p. 213]](https://www.zotero.org/google-docs/?BcGnUZ).
+Fundamentally, experimentation needs to underscore that the paper adds value: that the theory is proven or disproven, and that the experiment can be repeated. If the results were a singleton then the applicability of the paper is low, and therefore not of use to the reader [[1, p. 213]].
 
 # Reference list
 
-[[1]	J. Zobel, ](https://www.zotero.org/google-docs/?IZOGdT)*[Writing for Computer Science](https://www.zotero.org/google-docs/?IZOGdT)*[. London: Springer London, 2014. doi: 10.1007/978-1-4471-6639-9.](https://www.zotero.org/google-docs/?IZOGdT)
+[[1]	J. Zobel, ]*[Writing for Computer Science]*[. London: Springer London, 2014. doi: 10.1007/978-1-4471-6639-9.]
