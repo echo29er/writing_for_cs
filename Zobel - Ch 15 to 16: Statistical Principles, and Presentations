@@ -4,39 +4,39 @@
 
 This is a light overview of the chapter. I will explore statistics and statistical evaluation in a future write up of OpenIntro Statistics.
 
-Raw numbers alone are deceptive: when we run an experiment that indicates one system is superior to another through one measure only then we are not educating our readers honestly [[1, p. 217]](https://www.zotero.org/google-docs/?gjGfjy). A value from a single test may be due to randomness or variability from test conditions or human evaluation. It is essential that we demonstrate repetition of tests, for our readers to have faith in our analyses. 
+Raw numbers alone are deceptive: when we run an experiment that indicates one system is superior to another through one measure only then we are not educating our readers honestly [[1, p. 217]]. A value from a single test may be due to randomness or variability from test conditions or human evaluation. It is essential that we demonstrate repetition of tests, for our readers to have faith in our analyses. 
 
 ## Test environment
 
-Zobel states “the test environment should be designed to minimize the effect of extraneous factors—that is, to unambiguously relate variations in one property to variations in another” [[1, p. 218]](https://www.zotero.org/google-docs/?YJvQwO). While it is likely impossible to control all variables that impact the test environment, we can craft our test design to demonstrate that care has been taken to reduce their impact. 
+Zobel states “the test environment should be designed to minimize the effect of extraneous factors—that is, to unambiguously relate variations in one property to variations in another” [[1, p. 218]]. While it is likely impossible to control all variables that impact the test environment, we can craft our test design to demonstrate that care has been taken to reduce their impact. 
 
 ## Data sources
 
-Our papers will often claim that our models or algorithms have succeeded, and that the success is proven through experimentation. With our test environment well-considered, we need to ensure that our test data is representative [[1, p. 218]](https://www.zotero.org/google-docs/?3IAYB1). Our method for parameterising this data must be described and thought through so that it is clear why we have chosen the data set: this should include how we have processed the data. 
+Our papers will often claim that our models or algorithms have succeeded, and that the success is proven through experimentation. With our test environment well-considered, we need to ensure that our test data is representative [[1, p. 218]]. Our method for parameterising this data must be described and thought through so that it is clear why we have chosen the data set: this should include how we have processed the data. 
 
-If our data is human-judgement based, then we should indicate that this often yields non-deterministic results [[1, p. 220]](https://www.zotero.org/google-docs/?zeG3vM).
+If our data is human-judgement based, then we should indicate that this often yields non-deterministic results [[1, p. 220]].
 
 ## Aggregation
 
-We must be careful when applying the mean average. Zobel gives an example of heights in a class where a student at random is unlikely to fall near the average [[1, p. 221]](https://www.zotero.org/google-docs/?axn5HU). This in fact teaches us that it is better to pick examples at random: they will be more representative of the population than samples at or near the mean average. 
+We must be careful when applying the mean average. Zobel gives an example of heights in a class where a student at random is unlikely to fall near the average [[1, p. 221]]. This in fact teaches us that it is better to pick examples at random: they will be more representative of the population than samples at or near the mean average. 
 
 Zobel gives a further example of where using the mean is not useful. Taking the mean average of the travel time between two cities on an aeroplane and a car journey will not provide us with a useful statistic: instead we can compare the minimum and maximum values.
 
 ## Variability
 
-When considering our data sets, Zobel gives an example of experimentation on a database where the reporter’s table size increased linearly. While a linear approach, at first, appears logical, it is a limited scaling factor compared to a geometric increase. A geometric increase in table size would have allowed better demonstration of the performance of the database algorithm: a logarithmic graph to demonstrate a trend more clearly than the linear results [[1, p. 222]](https://www.zotero.org/google-docs/?HL8z3H).
+When considering our data sets, Zobel gives an example of experimentation on a database where the reporter’s table size increased linearly. While a linear approach, at first, appears logical, it is a limited scaling factor compared to a geometric increase. A geometric increase in table size would have allowed better demonstration of the performance of the database algorithm: a logarithmic graph to demonstrate a trend more clearly than the linear results [[1, p. 222]].
 
 ## Randomness and error 
 
-Zobel discusses inventive experiments. This is where we as scientists should think creatively about the impact of our experiments: thinking black and white can constrain our academic thinking, and is more likely to underscore biases [[1, p. 229]](https://www.zotero.org/google-docs/?q7CJLb).
+Zobel discusses inventive experiments. This is where we as scientists should think creatively about the impact of our experiments: thinking black and white can constrain our academic thinking, and is more likely to underscore biases [[1, p. 229]].
 
 ## Intuition
 
-Zobel warns that “coincidences are more memorable than non-coincidences”: we must be careful in the formulation of our papers. We must ensure that we are not taken-in by misleading results that fit our hypotheses [[1, p. 230]](https://www.zotero.org/google-docs/?mtCCyc). This is formally referred to as Confirmation Bias. 
+Zobel warns that “coincidences are more memorable than non-coincidences”: we must be careful in the formulation of our papers. We must ensure that we are not taken-in by misleading results that fit our hypotheses [[1, p. 230]]. This is formally referred to as Confirmation Bias. 
 
 ## Visualising results
 
-In Chapter 11, we established that visuals like graphs and diagrams are an essential method to convey crisp meaning to our readers. When we visualise our data, we must be conscious of the trend lines that are drawn: Zobel gives an example of a line constructed between every point versus a trend line that forms a regression curve. The regression curve is more useful to the reader as it provides a trend that can be used for future estimation [[1, pp. 231–233]](https://www.zotero.org/google-docs/?qDCTKn).
+In Chapter 11, we established that visuals like graphs and diagrams are an essential method to convey crisp meaning to our readers. When we visualise our data, we must be conscious of the trend lines that are drawn: Zobel gives an example of a line constructed between every point versus a trend line that forms a regression curve. The regression curve is more useful to the reader as it provides a trend that can be used for future estimation [[1, pp. 231–233]].
 
 # Chapter 16: Presentations
 
@@ -44,11 +44,11 @@ This is a quick review of the chapter on presentations. Presentations fall outsi
 
 Of note, it is essential to consider the following when presenting:
 
-- Speak slower than you read: we want to ensure the audience hears our messaging [[1, pp. 238, 245]](https://www.zotero.org/google-docs/?8GccNK).
-- Structure the presentation according to the time allocated, and tailor content to the audience. It is better to have less content than necessary so we do not overrun and we have time for questions [[1, pp. 239–241]](https://www.zotero.org/google-docs/?WC7H1m).
-- Explain the context to motivate the listener; this is similar to the motivation in our introduction to a paper [[1, p. 240]](https://www.zotero.org/google-docs/?9EKG7v).
-- Have a clear summary that ends the presentation with strength: don’t let the presentation fade into silence. Practically, this means we reiterate our message to the audience and outline any future work [[1, p. 243]](https://www.zotero.org/google-docs/?PNdNZ8).
+- Speak slower than you read: we want to ensure the audience hears our messaging [[1, pp. 238, 245]].
+- Structure the presentation according to the time allocated, and tailor content to the audience. It is better to have less content than necessary so we do not overrun and we have time for questions [[1, pp. 239–241]].
+- Explain the context to motivate the listener; this is similar to the motivation in our introduction to a paper [[1, p. 240]].
+- Have a clear summary that ends the presentation with strength: don’t let the presentation fade into silence. Practically, this means we reiterate our message to the audience and outline any future work [[1, p. 243]].
 
 # Reference list
 
-[[1]	J. Zobel, ](https://www.zotero.org/google-docs/?IZOGdT)*[Writing for Computer Science](https://www.zotero.org/google-docs/?IZOGdT)*[. London: Springer London, 2014. doi: 10.1007/978-1-4471-6639-9.](https://www.zotero.org/google-docs/?IZOGdT)
+[[1]	J. Zobel, ]*[Writing for Computer Science]*[. London: Springer London, 2014. doi: 10.1007/978-1-4471-6639-9.]
