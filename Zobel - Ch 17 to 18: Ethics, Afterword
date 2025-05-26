@@ -1,0 +1,29 @@
+# My understanding of Chapter 17-18 from Zobel's Writing for Computer Science [1, pp. 255–265]
+
+# Chapter 17: Ethics
+
+## Forms of unethical behaviour
+
+There are three notable forms of unethical behaviour. First is plagiarism: the act of stealing work from others. To use work from other authors without their consent is wrong. It is best to paraphrase what they say to structure your own new thoughts [1, pp. 256–258]. Second is abuse of power by a senior party, for example a supervisor. Here, there may be coercion to include a senior party on research when they have contributed nothing [1, p. 256]. The last is fraud. This is where results from experimentation have been confected to validate a hypothesis [1, p. 256]. Any of these, if found, would stop a scientist's career, as they will not be seen as reliable and trustworthy.
+
+## Plagiarism is challenging
+
+It is obvious that to copy and paste another person's words is plagiarism. With this in mind, we are aware that we must paraphrase and embed an author's thoughts into our own new writing. At first, this sounds easy to implement, but it is challenging. We must ensure that, when we paraphrase, we are not merely changing a word or two, but thoroughly creating new content [1, pp. 27, 259]. As Zobel states at the beginning of his work, we must "have something of value to say" [1, p. 2]. To avoid plagiarism, we must write anew each time; that is to say we can use structures to frame the work, but we must craft fresh content.
+
+It is important to note that self-plagiarism is an issue that is often underappreciated. On the one hand, it may seem reasonable to leverage work that one has completed in the past, but on the other hand, to republish one's previous works is to not add anything new to the literature, and hence we would violate Zobel's principle of always having something of value to say [1, p. 260].
+
+## Misrepresenting theory and experiments
+
+Throughout the book, Zobel is consistent in underscoring the dichotomy of theory and experimentation [1, pp. 3, 27, 155, 197]. Experimentation is of the utmost importance to demonstrate a paper has value to the reader; therefore we must ensure that no experiments are inaccurate. That is to say that we must declare where there are errors and explicitly not state any falsehoods or hyperboles [1, p. 261].
+
+## Declaring conflicts of interest
+
+Outside of academia, we link conflicts of interest to situations where a person may gain financially from an action. In academia, we can extend this to situations where a reviewer cannot in principle agree with the writing of an author. In this instance, a reviewer should state that they are biased and must ask to be removed from the review. While the reviewer would not gain financially from this situation, they would risk imposing their political or cultural views on a work that they do not agree with [1, p. 263].
+
+#  Chapter 18: Afterword
+
+Here, Zobel reminds us that writing is a skill that must be built up over time. No work will ever be perfect the first time, so we must construct ourselves a path that will improve our ability. Therefore it is necessary to write as soon as we can, and to iterate [1, pp. 5, 184–185, 265]; and we must seek the review of others to give us critical feedback [1, p. 191].
+
+## Reference list
+
+[1] J. Zobel, Writing for Computer Science. London: Springer London, 2014. doi: 10.1007/978-1-4471-6639-9.
