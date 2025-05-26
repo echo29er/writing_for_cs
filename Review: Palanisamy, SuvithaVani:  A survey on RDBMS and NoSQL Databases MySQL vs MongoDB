@@ -1,0 +1,23 @@
+# Review: Palanisamy, SuvithaVani: A survey on RDBMS and NoSQL Databases MySQL vs MongoDB
+
+# Abstract
+
+When to use RDBMS and NoSQL databases is a subject that has come up several times during my Computer Science masters. My motivation to read Palanisamy, SuvithaVani's paper[1] was to gain an understanding beyond text books of how academics have made this choice; I was especially interested in the results of the survey from the paper's title. This is therefore my review of the paper that considers its structure, style and content when compared to Zobel's Writing for Computer Science. To summarise, the paper is adequately structured, but the style is non-academic, and the content unfortunately adds nothing new to the literature as there is no survey or experimentation conducted: the author merely quotes from several existing text books.
+
+# Structure
+
+The paper is structured with an abstract, introduction, background information through an exploration of properties and theorems, databases, RDBMS vs NoSQL, processing query, and finally a conclusion. This is clear, but when evaluating it against Zobel's structure [2, pp. 56, 59], the paper is missing any form of experimentation, and therefore any form of discovery that isn't already in the literature [2, p. 58].
+
+# Style
+
+The paper is replete with typos and colloquial language that make the reading experience unenjoyable. Unfortunately, the writer's tone and style reduce their credibility as they use a lot of qualifiers and emotionally charged words and phrases. It would be useful for the author to read Zobel's chapter on Good Style [2, pp. 75–93].
+
+# Content
+
+The author of this paper has not asked themselves the question of whether their work adds to the literature or not [2, p. 2]. This may sound unnecessarily critical, but the paper doesn't conduct a literature review, nor does it run an experiment or any qualitative work: it is odd that the title has the word "survey" in it when no surveys are referenced. The paper is a poor mosaic of extracts from books, papers and web articles that adds nothing new to existing textbooks that discuss use cases for SQL and NoSQL databases.
+
+# Reference list
+
+[1] S. Palanisamy and P. SuvithaVani, 'A survey on RDBMS and NoSQL Databases MySQL vs MongoDB', in 2020 International Conference on Computer Communication and Informatics (ICCCI), Coimbatore, India: IEEE, Jan. 2020, pp. 1–7. doi: 10.1109/ICCCI48352.2020.9104047.
+
+[2] J. Zobel, Writing for Computer Science. London: Springer London, 2014. doi: 10.1007/978-1-4471-6639-9.
